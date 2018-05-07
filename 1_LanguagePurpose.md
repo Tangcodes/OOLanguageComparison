@@ -1,7 +1,4 @@
 # Language purpose/genesis
-   * Why was the language created?
-   * What problems was the language trying to address?
-   * Is the language a reaction to a previous language or a replacement for another language?
 
 * **Java** is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let all compiled Java code can run on all platforms that support **Java** without the need for recompilation. **Java** derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.
 
