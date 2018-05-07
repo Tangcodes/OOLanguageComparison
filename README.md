@@ -11,7 +11,7 @@ Final Project for CMP_SC 4330/CMP_SC 7330 - Object Oriented Design I
 * Jingxuan Tang
 * Yu Hou
 
-# Content
+## Content
 
 * #### [Language purpose/genesis](1_LanguagePurpose.md)
   * Why was the language created?
