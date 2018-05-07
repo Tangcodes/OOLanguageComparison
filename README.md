@@ -1,5 +1,5 @@
 # OO Language Comparison
-Final Project for CMP_SC 7330 - Object Oriented Design I
+Final Project for CMP_SC 4330/CMP_SC 7330 - Object Oriented Design I
 
 ## Languages to compare
 * JAVA
