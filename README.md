@@ -2,8 +2,8 @@
 Final Project for CMP_SC 7330 - Object Oriented Design I
 
 ## Languages to compare
-*JAVA
-*Swift
+* JAVA
+* Swift
 
 ## Members
 * Dan Huang
